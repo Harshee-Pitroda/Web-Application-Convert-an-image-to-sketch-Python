@@ -15,7 +15,7 @@
 
 Sketching and painting are used by artists of many disciplines to preserve ideas, recollections, and thoughts. Experiencing art from painting and sculpting to visiting an art museum—provides a variety of well-being advantages, including reduced stress and improved critical thinking abilities. Drawing, sketching, and painting in particular, have been linked to increased creativity, memory, and stress alleviation, and are utilized in art therapy.
 
-Through this project, we I have built a web application to directly convert an image to a sketch using a python framework Streamlit. The user can upload an image to convert it to either a watercolor sketch or a pencil sketch. 
+Through this project, I have built a web application to directly convert an image to a sketch using a python framework Streamlit. The user can upload an image to convert it to either a watercolor sketch or a pencil sketch. 
 
 <!-- CREDITS -->
 ## CREDITS
